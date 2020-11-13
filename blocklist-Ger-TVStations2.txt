@@ -1,3 +1,13 @@
+# Update: 2020/11/13
+# Blockliste deutschsprachiger regionaler und
+# überregionaler TV-Sender DE/AT/CH
+#
+# Source: https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Fernsehsender
+# Source: https://de.wikipedia.org/wiki/Liste_deutscher_Regional-_und_Lokalfernsehprogramme
+#
+# Alternativ via RegEx-Filter die komplette .tv Domain sperren
+# (\.|^)(tv)$
+
 1-2-3.tv
 13thstreet.de
 1fl.li
@@ -8,7 +18,7 @@
 5plus.tv
 6plus.tv
 alex-berlin.de
-#allgäu.tv
+# allgäu.tv
 animal.discovery.com
 animalplanet.de
 anixehd.tv
