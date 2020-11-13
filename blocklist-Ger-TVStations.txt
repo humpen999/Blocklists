@@ -1,4 +1,4 @@
-##########################################################
+#
 # 2020/11/12
 # Blockliste deutschsprachiger regionaler und
 # überregionaler TV-Sender DE/AT/CH
@@ -17,7 +17,7 @@
 0.0.0.0 5plus.tv
 0.0.0.0 6plus.tv
 0.0.0.0 alex-berlin.de
-0.0.0.0 allgäu.tv
+#0.0.0.0 allgäu.tv
 0.0.0.0 animal.discovery.com
 0.0.0.0 animalplanet.de
 0.0.0.0 anixehd.tv
@@ -330,5 +330,4 @@
 0.0.0.0 xite.nl
 0.0.0.0 xite.tv
 0.0.0.0 zdf.de
-0.0.0.0 www.zdf.de
 0.0.0.0 zdfinfo.de
