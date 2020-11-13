@@ -8,7 +8,7 @@
 5plus.tv
 6plus.tv
 alex-berlin.de
-allgäu.tv
+#allgäu.tv
 animal.discovery.com
 animalplanet.de
 anixehd.tv
