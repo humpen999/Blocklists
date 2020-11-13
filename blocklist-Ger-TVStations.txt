@@ -330,4 +330,5 @@
 0.0.0.0 xite.nl
 0.0.0.0 xite.tv
 0.0.0.0 zdf.de
+0.0.0.0 www.zdf.de
 0.0.0.0 zdfinfo.de
