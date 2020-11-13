@@ -2,8 +2,10 @@
 # Blockliste deutschsprachiger regionaler und
 # überregionaler TV-Sender DE/AT/CH
 #
-# Alternativ via RegEx-Filter die 
-# komplette .tv Domain sperren
+# Source: https://de.wikipedia.org/wiki/Liste_deutschsprachiger_Fernsehsender
+# Source: https://de.wikipedia.org/wiki/Liste_deutscher_Regional-_und_Lokalfernsehprogramme
+#
+# Alternativ via RegEx-Filter die komplette .tv Domain sperren
 # (\.|^)(tv)$
 
 0.0.0.0 1-2-3.tv
