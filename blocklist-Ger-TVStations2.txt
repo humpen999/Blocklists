@@ -1,12 +1,3 @@
-##########################################################
-# 2020/11/12
-# Blockliste deutschsprachiger regionaler und
-# überregionaler TV-Sender DE/AT/CH
-#
-# Alternativ via RegEx-Filter die 
-# komplette .tv Domain sperren
-# (\.|^)(tv)$
-
 1-2-3.tv
 13thstreet.de
 1fl.li
